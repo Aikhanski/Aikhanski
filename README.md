@@ -1,6 +1,5 @@
 ### Hi there 👋
 <!--
-
 - 🔭 I’m currently working on ... My personal pat projects
 - 🌱 I’m currently learning ... coding without using storyboard or XIB files 
 - 👯 I’m looking to collaborate on ... SWIFT
